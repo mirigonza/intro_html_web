@@ -7,10 +7,9 @@
   
   ![Example](ejemplo.png)
   
-  <p>Para lograr lo antes mostrado generaremos un archivo HTML utilizando el atajo de teclado que nos provee EMMET al presionar signo de exclamasion (!), el cual
-  nos desplegara una ventana de autocompletado para generar el codigo base de nuestro HTML (recordemos que para que esto funcione, lo debemos hacer dentro de un archivo)
-  HTML.<br>
-  Posteriormente utilizando las siguientes etiquetas buscaremos replicar la imagen: </p>
+  <p>Para lograr lo antes mostrado generaremos un archivo HTML y colocaremos las etiquetas básicas de la estructura del archivo (HTML, body, etc)
+  <br>
+  Posteriormente utilizando las siguientes etiquetas para replicar la imagen: </p>
   
   - ```<h1></h1>```
   - ```<div></div>```
